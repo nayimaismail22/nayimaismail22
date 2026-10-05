@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Nayima Ismail 👋
 
 ```bash
 > npx profile --skills
@@ -7,3 +7,7 @@
 |  Java • Spring Boot • Microservices • TypeScript       |
 |  Status: Building scalable backend architectures 🚀   |
  \______________________________________________________/
+
+📊 Octo-Metrics Dashboard
+🛠️ Tech Stack & Tools
+🌐 Profiles & Contact
