@@ -9,7 +9,10 @@
  \______________________________________________________/
 
 📊 Octo-Metrics Dashboard
-🛠️ Tech Stack & Tools
+
+🛠️ Tech Software Engineer with 8 years of experience building scalable backends, full-stack web applications, and modern developer tooling.
+
+🌐 Profiles & Contact
 
 ### 🌐 Profiles & Contact
 
