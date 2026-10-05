@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nayimaismail22&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayimaismail22&layout=compact&theme=tokyonight" alt="Languages" />
 </div>
 
 <br />
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-  👀 Profile Views: ![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=007ec6)
+  👀 Profile Views: ![Views](https://komarev.com/ghpvc/?username=nayimaismail22&color=007ec6)
 </div>
 
   <svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
