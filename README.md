@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayimaismail22&theme=tokyonight" alt="Streak" />
 </div>
 
 ---
@@ -37,5 +37,9 @@ Here are some ideas to get you started:
   <svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
     <!-- Paste your SVG elements, <style> tags, and keyframe animations here -->
   </svg>
+  
+  <div align="center">
+  <img src="https://your-app.vercel.app/api/stats?username=nayimaismail22" alt="Dynamic GitHub Stats Card" />
+</div>
 </div>
 
