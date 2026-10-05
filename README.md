@@ -21,3 +21,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayima-palayamkot-ismail)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayimapalayamkot@gmil.com)
+
+🛠️ Tech Stack & Tools
+
+Languages & Frameworks: Java • Spring Boot • JavaScript • TypeScript • Node.js • Git
+🌐 Profiles & Contact
+
+    GitHub: github.com/nayimaismail22
+
+    LinkedIn: linkedin.com/in/nayima-palayamkot-ismail
+
+    Email: nayimapalayamkot@gmil.com
