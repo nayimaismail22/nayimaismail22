@@ -1,0 +1,49 @@
+<svg width="780" height="320" viewBox="0 0 780 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0b0f19; rx: 16px; stroke: #1f293d; stroke-width: 2; }
+    .header-title { font: bold 16px 'Segoe UI', sans-serif; fill: #58a6ff; letter-spacing: 1.5px; }
+    .username { font: bold 14px 'Segoe UI', sans-serif; fill: #8b949e; }
+    .label { font: 12px 'Segoe UI', sans-serif; fill: #8b949e; text-transform: uppercase; }
+    .val { font: bold 22px 'Segoe UI', sans-serif; fill: #ffffff; }
+    .hex { fill: #131b2e; stroke-width: 2; }
+    .tech-title { font: bold 13px 'Segoe UI', sans-serif; fill: #f0f6fc; text-anchor: middle; }
+    .tech-pct { font: 11px 'Segoe UI', sans-serif; fill: #8b949e; text-anchor: middle; }
+  </style>
+
+  <rect width="780" height="320" class="bg" />
+
+  <text x="35" y="45" class="header-title">OCTO-METRICS DASHBOARD</text>
+  <text x="35" y="68" class="username">@nayimaismail22</text>
+  <line x1="35" y1="85" x2="745" y2="85" stroke="#1f293d" stroke-width="1.5" />
+
+  <g transform="translate(35, 115)">
+    <text x="0" y="0" class="label">Public Repositories</text>
+    <text x="0" y="26" class="val">4</text>
+
+    <text x="0" y="70" class="label">Total Stars Earned</text>
+    <text x="0" y="96" class="val">⭐ 0</text>
+
+    <text x="0" y="140" class="label">Followers</text>
+    <text x="0" y="166" class="val">0</text>
+  </g>
+
+  <g transform="translate(520, 200)">
+    <g>
+      <polygon points="0,-55 48,-28 48,28 0,55 -48,28 -48,-28" class="hex" stroke="#f89820" />
+      <text x="0" y="-4" class="tech-title">JAVA</text>
+      <text x="0" y="14" class="tech-pct">0%</text>
+    </g>
+
+    <g transform="translate(95, -68)">
+      <polygon points="0,-45 39,-23 39,23 0,45 -39,23 -39,-23" class="hex" stroke="#f7df1e" />
+      <text x="0" y="-3" class="tech-title">JS</text>
+      <text x="0" y="12" class="tech-pct">100%</text>
+    </g>
+
+    <g transform="translate(95, 68)">
+      <polygon points="0,-45 39,-23 39,23 0,45 -39,23 -39,-23" class="hex" stroke="#3178c6" />
+      <text x="0" y="-3" class="tech-title">TS</text>
+      <text x="0" y="12" class="tech-pct">0%</text>
+    </g>
+  </g>
+</svg>
